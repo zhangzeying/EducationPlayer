@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F28B90D39190C203D2CE49F811A9F84E454255AF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F28B90D39190C203D2CE49F811A9F84E454255AF" : 9223372036854775807,
+    "8B547B74B05C3C25A20C49BC21A551CE2F5799ED" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "38739FA0-EFEE-4A3E-91AE-89ED1E81FC00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F28B90D39190C203D2CE49F811A9F84E454255AF" : "EducationPlayer\/",
+    "8B547B74B05C3C25A20C49BC21A551CE2F5799ED" : "BathroomShopping\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "EducationPlayer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "EducationPlayer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzyzjj123\/Bathroom.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8B547B74B05C3C25A20C49BC21A551CE2F5799ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zzyzjj123\/EducationPlayer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F28B90D39190C203D2CE49F811A9F84E454255AF"
+    }
+  ]
+}
